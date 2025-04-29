@@ -27,18 +27,18 @@ O projeto foi criado para praticar conceitos de manipulação de DOM, lógica de
    Abra o arquivo index.html no seu navegador.
    (Recomendo usar uma extensão como Live Server no VS Code.)
 
-📌 Status do Projeto
+## 📌 Status do Projeto
 🛠️ Em desenvolvimento contínuo
 
-📈 Próximos Passos
+## 📈 Próximos Passos
 Melhorar a responsividade mobile
 
 Implementar cadastro de novos jogos
 
 Melhorar a experiência de feedback visual
 
-📖 Créditos
+## 📖 Créditos
 Este projeto foi desenvolvido originalmente durante o curso de Formação Iniciante em Programação da Alura.
 
-🧑‍💻 Desenvolvido por
+## 🧑‍💻 Desenvolvido por
 Isabela Mattos Magalhães Coelho
