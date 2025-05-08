@@ -22,9 +22,9 @@ O projeto foi criado para praticar conceitos de manipulação de DOM, lógica de
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/alugames.git
+   git clone https://github.com/imagalhaess/games_rent_js.git
    ```
-   Abra o arquivo index.html no seu navegador.
+2. Abra o arquivo index.html no seu navegador.
    (Recomendo usar uma extensão como Live Server no VS Code.)
 
 ## 📌 Status do Projeto
